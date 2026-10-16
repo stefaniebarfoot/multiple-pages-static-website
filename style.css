@@ -9,10 +9,11 @@ p {
 
 footer {
   text-align: center;
+  margin-top: 20px;
+}
 
-  footer a {
-    margin: 0 10px;
-  }
+footer a {
+  margin: 0 10px;
 }
 .croissant-photo {
   max-width: 40%;
