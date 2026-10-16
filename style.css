@@ -14,3 +14,9 @@ footer {
     margin: 0 10px;
   }
 }
+.croissant-photo {
+  max-width: 40%;
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+}
